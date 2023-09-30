@@ -15,6 +15,9 @@ setPreferredLanguage()
 
 <template>
   <main class="py-20 px-10 text-center">
+    <h1 text-3xl font-400>
+        Ocelot
+    </h1>
     <NuxtPage />
     <Footer />
   </main>
