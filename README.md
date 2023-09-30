@@ -8,7 +8,9 @@ Ocelot Nuxt3 Starter Kit
 </div>
 <br>
 <div align="center"> 
+  
 ![Bildschirmfoto vom 2023-09-30 13-34-37](https://github.com/ogerly/ocelot-nuxt-apollo-starter/assets/1324583/2396bb7b-b456-45ef-b8cc-131606fb9fc7)
+
 </div>
 
 ## Features
