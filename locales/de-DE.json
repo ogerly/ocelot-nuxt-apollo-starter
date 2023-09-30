@@ -1,0 +1,15 @@
+{
+  "clientLoading": "Laden nur bei Client",
+  "clientMode": "Client-Modus",
+  "ssrLoading": "Laden bei Absprung von anderer Landing Page",
+  "ssrMode": "Prefetch im SSR-Modus",
+  "name": "Wie ist dein Name?",
+  "go": "Go",
+  "besucht": "{Anzahl} Seitenaufrufe seit {Uhrzeit}",
+  "zurück": "Zurück",
+  "alias": "Auch bekannt als",
+  "China": "China",
+  "Germany": "Deutschland",
+  "Phil Xu": "Phil Xu",
+  "Peter Lustig": "Peter Lustig"
+}
