@@ -2,8 +2,7 @@
 <h2 align="center">
 Ocelot Nuxt3 Starter Kit
 </h2><br>
-
-## Preview
++ vite, pinia, i18n, apollo, vueuse
 
 
 ## Features
